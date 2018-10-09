@@ -1,3 +1,5 @@
+server:
+  port: 8888
 spring:
 #  datasource:
 #    platform: mysql    # will run data-mysql.sql file
