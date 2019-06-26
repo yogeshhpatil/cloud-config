@@ -1,2 +1,2 @@
 # cloud-config
-Repository provides spring boot appication configuration details.
+Repository provides spring boot application configuration details.
